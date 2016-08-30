@@ -1,1 +1,1 @@
-### 教程参见： https://github.com/majia67/3DS-ARM9LoaderHax-Guide/wiki
+### 教程参见： https://github.com/majia67/Guide_RedNAND/wiki
